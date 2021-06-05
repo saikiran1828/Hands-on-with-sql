@@ -1,5 +1,12 @@
+# hacker rank 
 # Hands-on-with-sql
 Hands on with sql 
-* Importing Sql queries
-* finding the nth highest salary 
-*
+* select 
+* group by
+* where
+* agregration
+* DDL
+* DML
+* Windows functions
+* subqueries 
+
