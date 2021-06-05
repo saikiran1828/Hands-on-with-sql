@@ -1,10 +1,11 @@
+# Sql for Dealing with data
 # hacker rank 
 # Hands-on-with-sql
 Hands on with sql 
 * select 
 * group by
 * where
-* agregration
+* aggregation
 * DDL
 * DML
 * Windows functions
